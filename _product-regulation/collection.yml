@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Therapeutic products.md
-      - Medical devices.md
       - Medical devices/.keep
       - Medical devices/subfolder-page.md
