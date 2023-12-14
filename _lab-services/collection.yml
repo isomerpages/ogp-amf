@@ -2,6 +2,7 @@ collections:
   lab-services:
     output: true
     order:
+      - Forensic science.md
       - Forensic medicine.md
       - Forensic Biology.md
       - Cosmetics.md
