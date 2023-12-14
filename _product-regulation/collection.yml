@@ -4,5 +4,5 @@ collections:
     order:
       - Therapeutic products.md
       - Medical devices.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - Medical devices/.keep
+      - Medical devices/subfolder-page.md
