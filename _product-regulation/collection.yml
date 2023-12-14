@@ -2,6 +2,7 @@ collections:
   product-regulation:
     output: true
     order:
+      - Traditional medicines/.keep
       - Chinese proprietary medicines/.keep
       - Cosmetic products/.keep
       - Tobacco regulation/.keep
