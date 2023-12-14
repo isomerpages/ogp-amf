@@ -2,4 +2,5 @@ collections:
   lab-services:
     output: true
     order:
+      - Analytical toxicology.md
       - Applied sciences.md
