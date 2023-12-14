@@ -30,10 +30,34 @@ sections:
           description: ""
           linktext: Check approval requirements
           url: ""
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 14 December 2023
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
+  - textcards:
+      title: Consumer safety
+      id: textcards
+      cards:
+        - title: Weight loss products sold online
+          description: These dubious products that are sold online can harm your health.
+          linktext: Learn more
+          url: ""
+        - title: Pain relief products
+          description: Purchased from dubious sources lead to serious health problems.
+          linktext: Learn more
+          url: ""
+        - title: Adulterated, counterfeit, and substandard
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: "'Whitening' and 'anti-aging' products"
+          description: Have been found to contain mercury and other prohibited ingredients
+          linktext: Learn more
+          url: ""
 ---
