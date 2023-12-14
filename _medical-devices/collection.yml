@@ -2,4 +2,5 @@ collections:
   medical-devices:
     output: true
     order:
+      - Register your device.md
       - Regulatory overview.md
