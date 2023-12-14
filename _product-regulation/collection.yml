@@ -2,6 +2,7 @@ collections:
   product-regulation:
     output: true
     order:
+      - Clinical trials/.keep
       - Controlleddrugspsychotropicsu/.keep
       - Homeopathic medicines/.keep
       - Medicated oil, balm or plaster/.keep
