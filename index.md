@@ -14,22 +14,10 @@ sections:
       dropdown:
         title: Health products we regulate
         options: []
-  - textcards:
-      title: Learn About
-      id: textcards
-      cards:
-        - title: Being a responsible blood donor
-          description: ""
-          linktext: Check your eligibility and donate
-          url: ""
-        - title: Regulatory information & advisories on COVID-19
-          description: ""
-          linktext: Click here to find out more
-          url: ""
-        - title: Bringing personal medication into Singapore
-          description: ""
-          linktext: Check approval requirements
-          url: ""
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
   - announcements:
       title: Announcements
       id: announcements
@@ -58,6 +46,24 @@ sections:
           url: ""
         - title: "'Whitening' and 'anti-aging' products"
           description: Have been found to contain mercury and other prohibited ingredients
+          linktext: Learn more
+          url: ""
+  - textcards:
+      title: About HSA
+      id: textcards
+      cards:
+        - title: Applied sciences
+          description: Supporting the administration of justice through forensic science
+            and medicine
+          linktext: Learn more
+          url: ""
+        - title: Blood services
+          description: Securing the nation's blood supply
+          linktext: Learn more
+          url: ""
+        - title: Health products regulation
+          description: Regulating health products to meet standards of safety, quality,
+            and efficacy
           linktext: Learn more
           url: ""
 ---
