@@ -1,4 +1,5 @@
 collections:
   medical-devices:
     output: true
-    order: []
+    order:
+      - Regulatory overview.md
