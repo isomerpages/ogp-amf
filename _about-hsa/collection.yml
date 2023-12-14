@@ -1,0 +1,4 @@
+collections:
+  about-hsa:
+    output: true
+    order: []
