@@ -2,6 +2,7 @@ collections:
   product-regulation:
     output: true
     order:
+      - Therapeutic products.md
       - Medical devices.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
