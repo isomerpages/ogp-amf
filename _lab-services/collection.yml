@@ -2,4 +2,4 @@ collections:
   lab-services:
     output: true
     order:
-      - Lab services.md
+      - Applied sciences.md
