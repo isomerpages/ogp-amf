@@ -2,6 +2,6 @@ collections:
   about-hsa:
     output: true
     order:
-      - What we do/Milestones.md
-      - What we do/Annual reports.md
       - What we do/.keep
+      - What we do/Annual reports.md
+      - What we do/Milestones.md
