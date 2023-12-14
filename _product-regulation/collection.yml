@@ -2,6 +2,7 @@ collections:
   product-regulation:
     output: true
     order:
+      - Medical devices/Digital Health.md
       - Medical devices/International collaboration.md
       - Medical devices/Standards for Medical Devices.md
       - Medical devices/.keep
