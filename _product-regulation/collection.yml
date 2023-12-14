@@ -2,6 +2,8 @@ collections:
   product-regulation:
     output: true
     order:
+      - Medical devices/COVID 19 Standards Resources for Essential Medical
+        Devices.md
       - Medical devices/Digital Health.md
       - Medical devices/International collaboration.md
       - Medical devices/Standards for Medical Devices.md
