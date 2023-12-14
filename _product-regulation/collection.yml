@@ -2,6 +2,7 @@ collections:
   product-regulation:
     output: true
     order:
+      - Poisons/.keep
       - Topical antiseptics/.keep
       - Promoting medicinal products/.keep
       - Medical devices/.keep
