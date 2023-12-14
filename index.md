@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Health product regulations
           description: ""
-          url: /health-product-regulations
+          url: /product-regulation/medical-devices/
         - title: Report adverse events
           description: ""
           url: /product-regulation/medical-devices/report
