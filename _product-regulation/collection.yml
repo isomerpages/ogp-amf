@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  product-regulation:
     output: true
     order:
       - folder-page.md
