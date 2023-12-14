@@ -1,0 +1,4 @@
+collections:
+  medical-devices:
+    output: true
+    order: []
