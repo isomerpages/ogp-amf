@@ -11,9 +11,13 @@ sections:
       subtitle: We wisely regulate health products, serve the administration of
         justice, secure the nation's blood supply, and safeguard public health.
       background: /images/hero-banner.png
-      dropdown:
-        title: Health products we regulate
-        options: []
+      key_highlights:
+        - title: Report adverse events
+          description: ""
+          url: https://gmail.com
+        - title: Go to E-services
+          description: ""
+          url: /privacy/
   - resources:
       title: Resources
       subtitle: Add a preview and link to your Resource Room
