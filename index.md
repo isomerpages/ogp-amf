@@ -18,6 +18,24 @@ sections:
         - title: Go to E-services
           description: ""
           url: /privacy/
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: =
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
   - resources:
       title: Resources
       subtitle: Add a preview and link to your Resource Room
