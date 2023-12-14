@@ -2,6 +2,7 @@ collections:
   lab-services:
     output: true
     order:
+      - Forensic Biology.md
       - Cosmetics.md
       - Cigarettes and Tobacco.md
       - Applied sciences.md
