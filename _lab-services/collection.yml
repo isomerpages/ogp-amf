@@ -1,0 +1,4 @@
+collections:
+  lab-services:
+    output: true
+    order: []
