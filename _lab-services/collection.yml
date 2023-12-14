@@ -1,4 +1,5 @@
 collections:
   lab-services:
     output: true
-    order: []
+    order:
+      - Lab services.md
