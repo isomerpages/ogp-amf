@@ -45,11 +45,18 @@ sections:
       id: announcements
       subtitle: Add a list of announcements with dates
       announcement_items:
-        - title: New Announcement
-          date: 14 December 2023
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
+        - title: 176 Persons Caught at HSA Operation at ZoukOut 2023
+          date: 08 December 2023
+          announcement: >+
+            On 2 and 3 December 2023, the Health Sciences Authority (HSA)
+            conducted an operation at ZoukOut 2023, a dance music festival,
+            which was held at Siloso Beach, Sentosa. The operation was part of
+            HSA’s efforts to enforce the prohibition against e-vaporisers in
+            Singapore.
+
+
+          link_text: Link to press release
+          link_url: /176-persons-caught-at-hsa-operation-at-zoukout-2023
   - textcards:
       title: Consumer safety
       id: textcards
