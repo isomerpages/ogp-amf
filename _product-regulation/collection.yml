@@ -2,6 +2,7 @@ collections:
   product-regulation:
     output: true
     order:
+      - Medical devices/Free Sales Certificate and Export Certificate.md
       - Medical devices/Report adverse events.md
       - Medical devices/Field Safety Corrective Action reporting.md
       - Medical devices/Clinical trials.md
