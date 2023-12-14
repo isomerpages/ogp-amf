@@ -2,20 +2,6 @@ collections:
   product-regulation:
     output: true
     order:
-      - Health supplements/.keep
-      - Traditional medicines/.keep
-      - Chinese proprietary medicines/.keep
-      - Cosmetic products/.keep
-      - Tobacco regulation/.keep
-      - CTGTP/.keep
-      - Active ingredients/.keep
-      - Clinical trials/.keep
-      - Controlleddrugspsychotropicsu/.keep
-      - Homeopathic medicines/.keep
-      - Medicated oil, balm or plaster/.keep
-      - Poisons/.keep
-      - Topical antiseptics/.keep
-      - Promoting medicinal products/.keep
       - Medical devices/.keep
       - Medical devices/Regulatory overview.md
       - Medical devices/Register your device.md
@@ -35,3 +21,17 @@ collections:
       - Medical devices/International collaboration.md
       - Medical devices/Standards for Medical Devices.md
       - Therapeutic products/.keep
+      - Health supplements/.keep
+      - Traditional medicines/.keep
+      - Chinese proprietary medicines/.keep
+      - Cosmetic products/.keep
+      - Tobacco regulation/.keep
+      - CTGTP/.keep
+      - Active ingredients/.keep
+      - Clinical trials/.keep
+      - Controlleddrugspsychotropicsu/.keep
+      - Homeopathic medicines/.keep
+      - Medicated oil, balm or plaster/.keep
+      - Poisons/.keep
+      - Topical antiseptics/.keep
+      - Promoting medicinal products/.keep
