@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Report adverse events
           description: ""
-          url: https://gmail.com
+          url: /product-regulation/medical-devices/report
         - title: Go to E-services
           description: ""
           url: /privacy/
