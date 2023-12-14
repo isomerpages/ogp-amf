@@ -2,7 +2,7 @@ collections:
   product-regulation:
     output: true
     order:
-      - Therapeutic products/.keep
+      - Medical devices/.keep
       - Medical devices/Regulatory overview.md
       - Medical devices/Register your device.md
       - Medical devices/Changes to registered devices.md
@@ -20,4 +20,4 @@ collections:
       - Medical devices/Digital Health.md
       - Medical devices/International collaboration.md
       - Medical devices/Standards for Medical Devices.md
-      - Medical devices/.keep
+      - Therapeutic products/.keep
