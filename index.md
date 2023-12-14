@@ -12,30 +12,15 @@ sections:
         justice, secure the nation's blood supply, and safeguard public health.
       background: /images/hero-banner.png
       key_highlights:
+        - title: Health product regulations
+          description: ""
+          url: /health-product-regulations
         - title: Report adverse events
           description: ""
           url: /product-regulation/medical-devices/report
         - title: Go to E-services
           description: ""
           url: /privacy/
-  - textcards:
-      title: Text Cards
-      subtitle: Add informational text
-      id: textcards
-      description: Text card description
-      cards:
-        - title: Card
-          description: =
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
   - resources:
       title: Resources
       subtitle: Add a preview and link to your Resource Room
@@ -47,14 +32,11 @@ sections:
       announcement_items:
         - title: 176 Persons Caught at HSA Operation at ZoukOut 2023
           date: 08 December 2023
-          announcement: >+
-            On 2 and 3 December 2023, the Health Sciences Authority (HSA)
+          announcement: On 2 and 3 December 2023, the Health Sciences Authority (HSA)
             conducted an operation at ZoukOut 2023, a dance music festival,
             which was held at Siloso Beach, Sentosa. The operation was part of
             HSA’s efforts to enforce the prohibition against e-vaporisers in
             Singapore.
-
-
           link_text: Link to press release
           link_url: /176-persons-caught-at-hsa-operation-at-zoukout-2023
   - textcards:
