@@ -2,6 +2,7 @@ collections:
   lab-services:
     output: true
     order:
+      - Chemical metrology.md
       - Applied sciences.md
       - Analytical toxicology.md
       - Biologics.md
