@@ -2,6 +2,7 @@ collections:
   product-regulation:
     output: true
     order:
+      - Cosmetic products/.keep
       - Tobacco regulation/.keep
       - CTGTP/.keep
       - Active ingredients/.keep
