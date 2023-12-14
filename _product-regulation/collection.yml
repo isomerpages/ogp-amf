@@ -2,6 +2,7 @@ collections:
   product-regulation:
     output: true
     order:
+      - Medical devices/Field Safety Corrective Action reporting.md
       - Medical devices/Clinical trials.md
       - Medical devices/Consultation schemes.md
       - Medical devices/Bringing personal medical devices to Singapore.md
