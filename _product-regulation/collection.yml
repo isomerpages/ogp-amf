@@ -2,6 +2,7 @@ collections:
   product-regulation:
     output: true
     order:
+      - Medical devices/Register your device.md
       - Medical devices/Changes to registered devices.md
       - Medical devices/Dealer's licence.md
       - Medical devices/Free Sales Certificate and Export Certificate.md
