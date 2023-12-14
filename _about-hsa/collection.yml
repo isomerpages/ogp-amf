@@ -1,4 +1,5 @@
 collections:
   about-hsa:
     output: true
-    order: []
+    order:
+      - What we do/.keep
