@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Why donate blood.md
-      - Before making an appointment.md
+      - Make sure you are eligible to donate.md
       - Make an appointment.md
       - Where to donate blood.md
