@@ -2,7 +2,7 @@ collections:
   blood-donation:
     output: true
     order:
-      - Make an appointment.md
-      - Where to donate blood.md
       - Why donate blood.md
       - Before making an appointment.md
+      - Make an appointment.md
+      - Where to donate blood.md
