@@ -1,4 +1,5 @@
 collections:
   blood-donation:
     output: true
-    order: []
+    order:
+      - Blood donation.md
