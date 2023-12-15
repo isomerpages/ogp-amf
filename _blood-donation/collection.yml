@@ -2,5 +2,5 @@ collections:
   blood-donation:
     output: true
     order:
-      - Before making an appointment.md
       - Blood donation.md
+      - Before making an appointment.md
