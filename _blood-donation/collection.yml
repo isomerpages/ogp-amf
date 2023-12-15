@@ -1,0 +1,4 @@
+collections:
+  blood-donation:
+    output: true
+    order: []
