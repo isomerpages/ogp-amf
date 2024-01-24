@@ -1,0 +1,45 @@
+collections:
+  product-regulation:
+    output: true
+    order:
+      - Medical devices/.keep
+      - Medical devices/Regulatory overview.md
+      - Medical devices/Register your device.md
+      - Medical devices/Changes to registered devices.md
+      - Medical devices/Dealer's licence.md
+      - Medical devices/Free Sales Certificate and Export Certificate.md
+      - Medical devices/Report adverse events.md
+      - Medical devices/Field Safety Corrective Action reporting.md
+      - Medical devices/Clinical trials.md
+      - Medical devices/Consultation schemes.md
+      - Medical devices/Bringing personal medical devices to Singapore.md
+      - Medical devices/Guidance documents.md
+      - Medical devices/Fees and turnaround time.md
+      - Medical devices/COVID 19 Standards Resources for Essential Medical
+        Devices.md
+      - Medical devices/Digital Health.md
+      - Medical devices/International collaboration.md
+      - Medical devices/Standards for Medical Devices.md
+      - Therapeutic products/Clinical trials.md
+      - Therapeutic products/Product consultations.md
+      - Therapeutic products/Advertisements and promotions.md
+      - Therapeutic products/CPP and SLS.md
+      - Therapeutic products/International collaboration.md
+      - Therapeutic products/Medicines quality and compliance monitoring.md
+      - Therapeutic products/Guidance documents.md
+      - Therapeutic products/Fees and turnaround time.md
+      - Therapeutic products/.keep
+      - Health supplements/.keep
+      - Traditional medicines/.keep
+      - Chinese proprietary medicines/.keep
+      - Cosmetic products/.keep
+      - Tobacco regulation/.keep
+      - CTGTP/.keep
+      - Active ingredients/.keep
+      - Clinical trials/.keep
+      - Controlleddrugspsychotropicsu/.keep
+      - Homeopathic medicines/.keep
+      - Medicated oil, balm or plaster/.keep
+      - Poisons/.keep
+      - Topical antiseptics/.keep
+      - Promoting medicinal products/.keep

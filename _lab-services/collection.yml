@@ -1,0 +1,15 @@
+collections:
+  lab-services:
+    output: true
+    order:
+      - Applied sciences.md
+      - Analytical toxicology.md
+      - Biologics.md
+      - Chemical metrology.md
+      - Cigarettes and Tobacco.md
+      - Cosmetics.md
+      - Forensic biology.md
+      - Forensic medicine.md
+      - Forensic science.md
+      - Illicit drugs.md
+      - Pharmaceuticals.md

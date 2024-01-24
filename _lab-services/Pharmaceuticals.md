@@ -1,0 +1,7 @@
+---
+title: Pharmaceuticals
+permalink: /lab-services/pharmaceuticals/
+variant: tiptap
+description: ""
+---
+<h1><strong>Pharmaceuticals</strong></h1><p>Our Pharmaceutical Laboratory tests Western medicines, traditional medicines and health supplements to ensure the quality and safety of such products.</p><blockquote><h2><strong>Services</strong></h2><ul data-tight="true" class="tight"><li><p><a href="https://www.hsa.gov.sg/about-us/applied-sciences/pharmaceuticals/analysis" rel="noopener noreferrer nofollow" target="_blank">Pharmaceutical analysis</a></p></li></ul></blockquote><h2><strong>Pharmaceutical Laboratory</strong></h2><p>The Pharmaceutical Laboratory provides analytical services in support of the Health Products Act, Medicines Act and Poisons Act.</p><p>Our regulatory tests ensure the quality and safety of Western medicines, traditional medicines and health supplements sold in Singapore.</p><p>Our laboratory has been designated as a World Health Organization (WHO) Collaborating Centre for Medicines Quality Assurance since 1993. Besides reviewing monographs for The International Pharmacopoeia, we also assess test procedures and technical articles and validate international reference standards for WHO.</p><p>Our laboratory is accredited to ISO/IEC 17025:2017 by the Singapore Accreditation Council - Singapore Laboratory Accreditation Scheme (SAC-SINGLAS), and has been an associated member to the General European Official Medicines Control Laboratories Network (GEON) since May 2014.</p><p>Last updated: 16 Mar 2022</p>

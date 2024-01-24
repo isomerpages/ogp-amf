@@ -1,0 +1,8 @@
+collections:
+  blood-donation:
+    output: true
+    order:
+      - Why donate blood.md
+      - Make sure you are eligible to donate.md
+      - Make an appointment.md
+      - Where to donate blood.md

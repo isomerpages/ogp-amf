@@ -1,0 +1,10 @@
+logo: /images/isomer-logo.svg
+links:
+  - title: Product Regulation
+    collection: product-regulation
+  - title: Blood donation
+    url: /blood-donation/
+  - title: Lab services
+    url: /lab-services/
+  - title: Who we are
+    url: /about-hsa
